@@ -106,8 +106,8 @@
   background-position: center;
   background-repeat: no-repeat;
   flex-direction: column;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: auto;
+  padding-bottom: auto;
 }
 .staff__title {
   margin-top: 100px;
