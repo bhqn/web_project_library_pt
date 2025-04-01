@@ -360,26 +360,29 @@
   justify-content: space-between;
   padding: 60px 80px 60px 80px;
 }
-.footer__content__data-social {
-  display: flex;
-}
 
 .footer__column_content_hours {
+  order: 3;
   color: white;
   list-style-type: none;
+  margin-left: 80px;
 }
 
 .footer__column_content_social {
+  order: 2;
   color: white;
   list-style-type: none;
 }
 
 .footer__logo {
+  order: 1;
   width: 58px;
   height: 80px;
+  margin-right: auto;
 }
 
 .footer__column-heading {
+  font-weight: bold;
 }
 
 .footer__list {
