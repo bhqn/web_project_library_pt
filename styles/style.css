@@ -361,7 +361,7 @@
   padding: 60px 80px 60px 80px;
 }
 
-.footer__column_content_hours {
+.footer__content--hours {
   order: 3;
   color: white;
   list-style-type: none;
