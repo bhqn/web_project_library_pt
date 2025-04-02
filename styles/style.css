@@ -358,7 +358,7 @@
 .footer__columns {
   display: flex;
   justify-content: space-between;
-  padding: 60px 80px 60px 80px;
+  padding: 60px 80px 100px 80px;
 }
 
 .footer__column_content_hours {
@@ -383,6 +383,7 @@
 
 .footer__column-heading {
   font-weight: bold;
+  margin-top: 0;
 }
 
 .footer__list {
