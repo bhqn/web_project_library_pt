@@ -361,11 +361,11 @@
   padding: 60px 80px 60px 80px;
 }
 
-.footer__content--hours {
+.footer__column_content_hours {
   order: 3;
   color: white;
   list-style-type: none;
-  margin-left: 80px;
+  margin-right: 80px;
 }
 
 .footer__column_content_social {
